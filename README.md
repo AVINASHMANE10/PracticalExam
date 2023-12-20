@@ -7,10 +7,13 @@ Some basic programs related to KRAI and MAD
 	i)Array	 ii)Arrange      iii)len	      iv)ndim
 	v)slicing	 vi)copy	      vii)view     viii)reshape
 	ix)concatenate	x)split
+ 
 2)Write a program to implement following functions in pandas library
 	i)Dataframe            ii)dropna            iii)fillna     iv)replace specific values
+ 
 3)Write a program to implement following graphs in matplotlib library
 	i)Line Chart            ii)Bar chart	     iii) scatterplot     iv)pie chart        v)histogram 
+ 
 4)Write a program to find correlation matrix.
 
 #MAD
@@ -94,18 +97,33 @@ Some basic programs related to KRAI and MAD
 	c)Matplotlib
 	d)Seaborn
 	e) Seikit learn
+ 
 2)Write a program to find the correlation matrix
+
 3)Write a program to plot the correlation plot on dataset and visualize giving an overview of relationships among data on iris data
+
 4) Write a program to implement Analysis of covariance. variance(Anova) on iris dataset.
+
 5) Write a program to implement linear regression algorithm to create and evaluate a model on given dataset.
+
 6) Write a program to classify the given dataset using logistic regression and evaluate a model.
+
 7) Write a program to implement support vector machine algorithm.
+
 8) Write a program to implement Decision tree model on given dataset.
+
 9) Write a program to implement Baysian classification on given dataset.
+
 10) Write a program to implement K-Nearest Neighbor algorithm on given dataset.
+
 11) Write a program to implement K-Means Algorithm algorithm on given dataset.
+
 12) Write a program to implement deep learning algorithm using ANN.
+
 13) Write a program to implement deep learning algorithm using CNN.
+
 14) Write a program to implement deep learning algorithm using GAN.
+
 15) Write a program to implement text mining functions on unstructured data.
+
 16) Write a program to implement web scrapping on the given url.
